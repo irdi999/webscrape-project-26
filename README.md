@@ -19,7 +19,7 @@ Në këtë projekt:
 
 2. **Klono Projektin nga GitHub**
    ```bash
-   git clone https://github.com/irdi999/quotes-scraper.git
+   git clone https://github.com/irdi999/webscrape-project-26.git
    cd quotes-scraper
    ```
 
