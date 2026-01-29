@@ -20,7 +20,7 @@ Në këtë projekt:
 2. **Klono Projektin nga GitHub**
    ```bash
    git clone https://github.com/irdi999/webscrape-project-26.git
-   cd quotes-scraper
+   cd webscrape-project-26
    ```
 
 3. **Instalo Libraritë e Nevojshme**
